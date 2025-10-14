@@ -39,7 +39,7 @@
 vsftpd 2.3.4 - Backdoor Command Execution ( https://www.exploit-db.com/exploits/49757 )  
 Samba 3.0.20 < 3.0.25rc3 - 'Username' map script' Command Execution ( https://www.exploit-db.com/exploits/16320 )   
 Samba < 3.0.20 - Remote Heap Overflow ( https://www.exploit-db.com/exploits/7701 )  
-ProFTPd 1.2 < 1.3.0 (Linux) - 'sreplace' Remote Buffer Overflow (Metasploit) ( https://www.exploit-db.com/exploits/16852 ) 
+ProFTPd 1.2 < 1.3.0 (Linux) - 'sreplace' Remote Buffer Overflow (Metasploit) ( https://www.exploit-db.com/exploits/16852 )  
 ProFTPd IAC 1.3.x - Remote Command Execution ( https://www.exploit-db.com/exploits/15449 )  
 MySQL 5.0.x - IF Query Handling Remote Denial of Service ( https://www.exploit-db.com/exploits/30020 )  
 MySQL 5.0.x - Single Row SubSelect Remote Denial of Service ( https://www.exploit-db.com/exploits/29724 )  
