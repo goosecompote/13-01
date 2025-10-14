@@ -27,8 +27,8 @@
 514/tcp  open  shell       Netkit rshd  
 1099/tcp open  java-rmi    GNU Classpath grmiregistry  
 1524/tcp open  bindshell   Metasploitable root shell  
-2049/tcp open  nfs         2-4 (RPC #100003)  
-2121/tcp open  ftp         ProFTPD 1.3.1  
+2049/tcp open  nfs         2-4 (RPC #100003)   
+2121/tcp open  ftp         ProFTPD 1.3.1   
 3306/tcp open  mysql       MySQL 5.0.51a-3ubuntu5  
 5432/tcp open  postgresql  PostgreSQL DB 8.3.0 - 8.3.7  
 5900/tcp open  vnc         VNC (protocol 3.3)  
